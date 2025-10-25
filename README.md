@@ -9,19 +9,19 @@ is an advanced technology designed to manage and optimize the grain drying proce
 4. Communication and Integration: The system can integrate with other platforms, such as inventory management or smart farming systems, facilitating information exchange and comprehensive decision-making.
 5. Renewable Energy Technologies: Renewable energy sources, such as solar or wind power, can be incorporated to reduce operational costs and enhance sustainability.
 These systems contribute to improving grain quality and minimizing losses during the drying process, ultimately benefiting both farmers and consumers.
-#Grain Type and Drying Profiles:
-##Grain types: Cereals (wheat, rice, maize), oilseeds (soybean, sunflower), and pulses (lentil, bean).
-##Goal of drying: Reduce moisture to a safe level for storage and prevent spoilage or damage.
-##Typical final moisture:
+# Grain Type and Drying Profiles:
+1. Grain types: Cereals (wheat, rice, maize), oilseeds (soybean, sunflower), and pulses (lentil, bean).
+2.Goal of drying: Reduce moisture to a safe level for storage and prevent spoilage or damage.
+3. Typical final moisture:
 Cereals: 12–14%
 Oilseeds: 8–10%
 Pulses: 11–13%
-##Drying temperature:
+4. Drying temperature:
 Sensitive grains (rice, soybean): 35–45 °C
 Others (wheat, maize): 45–60 °C
-##Drying stages:
+5. Drying stages:
 1. Constant-rate period – fast surface drying.
 2. Falling-rate period – slower internal moisture removal.
 3. Equilibrium period – moisture stabilizes.
-##Main factors: Air temperature, airflow rate, grain depth, and initial moisture.
-##Goal: Achieve uniform drying without cracking, discoloration, or loss of quality.
+6. Main factors: Air temperature, airflow rate, grain depth, and initial moisture.
+7. Goal: Achieve uniform drying without cracking, discoloration, or loss of quality.
