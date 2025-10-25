@@ -28,3 +28,11 @@ Others (wheat, maize): 45–60 °C
 # Energy Efficiency Optimization in Grain Drying Processes:
 Energy efficiency plays a crucial role in the performance of smart grain dryer control systems. During the drying process, a significant amount of energy is consumed to remove moisture from the grains. Therefore, optimizing energy use is essential to reduce operational costs and environmental impact while maintaining product quality. The optimization process focuses on adjusting key parameters such as air temperature, airflow rate, drying time, and humidity to achieve the target moisture content with minimal energy waste.
 Modern control techniques, including model predictive control (MPC), fuzzy logic, and machine learning algorithms, are commonly used to dynamically adjust these parameters based on real-time sensor data. Additionally, integrating energy recovery systems or renewable sources such as solar-assisted heating can further enhance efficiency. By combining intelligent control with energy optimization strategies, the overall performance of the smart dryer can be improved significantly, ensuring both sustainability and economic benefits.
+# Artificielle intelligence integration :
+The integration of Artificial 
+Intelligence (AI) into smart control systems for grain drying represents a significant step toward enhancing the efficiency and precision of agricultural processing.
+The system relies on Machine Learning algorithms to analyze sensor data related to temperature and humidity, allowing for accurate prediction of the optimal drying time and automatic adjustment of temperature and fan speed.
+This integration improves energy efficiency, minimizes losses caused by over-drying or under-drying, and enables early detection of operational faults to maintain system stability and product quality.
+Moreover, the system continuously learns from previous data, becoming more intelligent and effective over time.
+The system can also be expanded by connecting it to cloud platforms or smart monitoring applications, in addition to employing Computer Vision techniques to assess grain quality and dryness level with high precision.
+Therefore, this integration represents a fundamental step toward developing intelligent, self-optimizing drying systems that achieve an ideal balance between energy efficiency and product quality.
