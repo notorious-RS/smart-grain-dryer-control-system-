@@ -11,7 +11,7 @@ is an advanced technology designed to manage and optimize the grain drying proce
 These systems contribute to improving grain quality and minimizing losses during the drying process, ultimately benefiting both farmers and consumers.
 # Grain Type and Drying Profiles:
 1. Grain types: Cereals (wheat, rice, maize), oilseeds (soybean, sunflower), and pulses (lentil, bean).
-2.Goal of drying: Reduce moisture to a safe level for storage and prevent spoilage or damage.
+2. Goal of drying: Reduce moisture to a safe level for storage and prevent spoilage or damage.
 3. Typical final moisture:
 Cereals: 12–14%
 Oilseeds: 8–10%
