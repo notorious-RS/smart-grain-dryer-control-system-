@@ -1,5 +1,5 @@
 # our project: smart grain dryer control system.
-# steps in order: energy efficiency analysis, grain type and drying profiles, system optimization, artificiell intelligence.
+# steps in order: 1/ the smart grain drying control system,grain type and drying profiles,energy efficiency optimization in grain drying processes,based monitoring and control in smart grain dryers,artificiell intelligence integration
 members: Salah Eddine Rahni, Aya Ouzri, Sirine Sahraoui, Abdelhalim Zahra, Baha Eddine Benarbia.
 # The Smart Grain Drying Control System :
 is an advanced technology designed to manage and optimize the grain drying process efficiently. Its main goal is to ensure grain quality, minimize losses, and enhance energy efficiency. The system relies on a combination of components and technologies, including:
