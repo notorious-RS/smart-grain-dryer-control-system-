@@ -3,21 +3,25 @@
 members: Salah Eddine Rahni, Aya Ouzri, Sirine Sahraoui, Abdelhalim Zahra, Baha Eddine Benarbia.
 # The Smart Grain Drying Control System :
 is an advanced technology designed to manage and optimize the grain drying process efficiently. Its main goal is to ensure grain quality, minimize losses, and enhance energy efficiency. The system relies on a combination of components and technologies, including:
-
 1. Sensors: Used to measure moisture and temperature levels in both the grains and the surrounding environment. This data enables precise decision-making throughout the drying process.
-
-
 2. Automatic Control: Intelligent software is employed to regulate drying equipment based on sensor data. These programs may incorporate machine learning algorithms to improve performance over time.
-
-
 3. Prediction and Analysis: The system can analyze historical data and forecast future requirements, helping optimize drying schedules and resource utilization.
-
-
 4. Communication and Integration: The system can integrate with other platforms, such as inventory management or smart farming systems, facilitating information exchange and comprehensive decision-making.
-
-
 5. Renewable Energy Technologies: Renewable energy sources, such as solar or wind power, can be incorporated to reduce operational costs and enhance sustainability.
-
-
-
 These systems contribute to improving grain quality and minimizing losses during the drying process, ultimately benefiting both farmers and consumers.
+#Grain Type and Drying Profiles:
+##Grain types: Cereals (wheat, rice, maize), oilseeds (soybean, sunflower), and pulses (lentil, bean).
+##Goal of drying: Reduce moisture to a safe level for storage and prevent spoilage or damage.
+##Typical final moisture:
+Cereals: 12–14%
+Oilseeds: 8–10%
+Pulses: 11–13%
+##Drying temperature:
+Sensitive grains (rice, soybean): 35–45 °C
+Others (wheat, maize): 45–60 °C
+##Drying stages:
+1. Constant-rate period – fast surface drying.
+2. Falling-rate period – slower internal moisture removal.
+3. Equilibrium period – moisture stabilizes.
+##Main factors: Air temperature, airflow rate, grain depth, and initial moisture.
+##Goal: Achieve uniform drying without cracking, discoloration, or loss of quality.
