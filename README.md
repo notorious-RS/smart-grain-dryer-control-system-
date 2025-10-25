@@ -20,8 +20,8 @@ Pulses: 11–13%
 Sensitive grains (rice, soybean): 35–45 °C
 Others (wheat, maize): 45–60 °C
 5. Drying stages:
-1. Constant-rate period – fast surface drying.
-2. Falling-rate period – slower internal moisture removal.
-3. Equilibrium period – moisture stabilizes.
+ Constant-rate period – fast surface drying.
+ Falling-rate period – slower internal moisture removal.
+ Equilibrium period – moisture stabilizes.
 6. Main factors: Air temperature, airflow rate, grain depth, and initial moisture.
 7. Goal: Achieve uniform drying without cracking, discoloration, or loss of quality.
